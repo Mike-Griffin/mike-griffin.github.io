@@ -82,13 +82,14 @@ ul {
 
 .social-media-buttons {
   margin-top:30px;
+  text-align: center;
+  position:relative;
+  padding-left:370px;
 }
 
 .home-message a:hover {
   background-color:black;
 }
-
-
 
 .home-message li {
   padding: 0;
