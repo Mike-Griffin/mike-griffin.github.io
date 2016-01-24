@@ -8,7 +8,7 @@ margin: 0;
 
 .top-bar {
   font-size:16px;
-  margin-right:0px;
+  margin: 0%;
   background: rgba(192, 192, 192, 0.9);
   width:100%;
   position:absolute;
@@ -24,7 +24,7 @@ margin: 0;
 }
 
 .top-bar li a {
-    float:right;
+  float:right;
 }
 
 
@@ -43,9 +43,6 @@ ul {
   list-style: none;
 }
 
-.container-fluid {
-
-}
 
 .home-message {
     position: relative;
@@ -54,7 +51,7 @@ ul {
     margin-top:40px;
   padding-top:85px;
     background-color:#C63D0F;
-  height:650px;
+  height:1000px;
 }
 
 .home-message h1 {
@@ -86,11 +83,11 @@ ul {
 .social-media-buttons {
   margin-top:30px;
 }
-/*
+
 .home-message a:hover {
   background-color:black;
 }
-*/
+
 
 
 .home-message li {
